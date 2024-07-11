@@ -1,5 +1,6 @@
 package Homework1;
 
-public class childFInalMethodDemo {
+public class childFInalMethodDemo extends FinalMethodDemo() {
+
 
 }
