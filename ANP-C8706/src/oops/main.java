@@ -2,7 +2,7 @@ package oops;
 
 public class main {
 
-	public static void main(String[] args) {
+	public static void Main(String[] args) {
 		Student s1 = new Student();
 		s1.name = "Mayank";
 		s1.age = 22;
